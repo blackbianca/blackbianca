@@ -5,7 +5,7 @@ github-header-image.png)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
 Pursuing a Ph.D. in Astrophysics, focusing on the ield of galaxy formation and evolution. Trying to radio astronomy in a modern way and with modern tools. 
-Radio interferometers output a LOT of data and I'm here to look at them, bring them to me. 
+Radio interferometers output a LOT of data: bring them to me. 
 <br>
 <br>
 <div align="center">
