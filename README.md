@@ -1,6 +1,7 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Alessandro Bianchetti </h1>
 
-![github_cover_banner](LOGO.png)
+![github_cover_banner](
+github-header-image.png)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
 LOREM IPSUM
