@@ -71,7 +71,7 @@ Radio interferometers output a LOT of data and I'm here to look at them, bring t
         <img  alt="DS9" height="50px" style="padding-right:10px;" src="ds9logo.jpg"/>
     </a>
     <a href="https://www.star.bris.ac.uk/~mbt/topcat/" target="_blank" rel="noreferrer">
-        <img  alt="TOPCAT" height="50px" style="padding-right:10px;" src="topcatlogo.jpeg"/>
+        <img  alt="TOPCAT" height="50px" style="padding-right:10px;" src="topcatlogo.jpg"/>
     </a>
 </div>
 <br>
