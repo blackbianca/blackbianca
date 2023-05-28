@@ -92,14 +92,14 @@ Radio interferometers output a LOT of data and I'm here to look at them, bring t
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aidinattar&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=blackbianca&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=aidinattar&count_private=true&theme=algolia&border_radius=20)
+![GitHub Streak](https://streak-stats.demolab.com?user=blackbianca&count_private=true&theme=algolia&border_radius=20)
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aidinattar&show_icons=true&theme=algolia&border_radius=20) -->
     
 <!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aidinattar&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blackbianca&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 <!--  End Stats Cards -->
 
@@ -110,7 +110,7 @@ Radio interferometers output a LOT of data and I'm here to look at them, bring t
 <div class="footer" align="center" style="margin:15px;">
     <a href="https://www.linkedin.com/in/aidin-attar/" target="_blank">
         <img  style="margin:0 10px 10px 0;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="linkedin" width="40px"/>
-    <a href="mailto:attaraidin@gmail.com" target="_blank">
+    <a href="mailto:alessandro.bianchetti@phd.unipd.it" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="gmail" width="40px"/>
     </a>
 </div>
