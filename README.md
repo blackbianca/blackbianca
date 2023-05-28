@@ -62,16 +62,16 @@ Radio interferometers output a LOT of data and I'm here to look at them, bring t
         <img  alt="Linux" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
     </a>
     <a href="https://casa.nrao.edu/" target="_blank" rel="noreferrer">
-        <img  alt="CASA" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/CASA-original.svg"/>
+        <img  alt="CASA" height="50px" style="padding-right:10px;" src="casalogo.jpg"/>
     </a>
     <a href="https://cartavis.org/" target="_blank" rel="noreferrer">
-        <img  alt="CARTA" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/CARTA-original.svg"/>
+        <img  alt="CARTA" height="50px" style="padding-right:10px;" src="cartalogo.jpg"/>
     </a>
     <a href="https://sites.google.com/cfa.harvard.edu/saoimageds9" target="_blank" rel="noreferrer">
-        <img  alt="DS9" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/SAOimageds9-original.svg"/>
+        <img  alt="DS9" height="50px" style="padding-right:10px;" src="ds9logo.jpg"/>
     </a>
     <a href="https://www.star.bris.ac.uk/~mbt/topcat/" target="_blank" rel="noreferrer">
-        <img  alt="TOPCAT" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/topcat-original.svg"/>
+        <img  alt="TOPCAT" height="50px" style="padding-right:10px;" src="topcatlogo.jpeg"/>
     </a>
 </div>
 <br>
