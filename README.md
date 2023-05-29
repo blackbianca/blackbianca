@@ -108,7 +108,7 @@ Radio interferometers output a LOT of data: bring them to me.
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
 <div class="footer" align="center" style="margin:15px;">
-    <a href="https://www.linkedin.com/in/aidin-attar/" target="_blank">
+    <a href="[https://www.linkedin.com/in/aidin-attar/](https://www.linkedin.com/in/alessandro-bianchetti-9a56491ba/)" target="_blank">
         <img  style="margin:0 10px 10px 0;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="linkedin" width="40px"/>
     <a href="mailto:alessandro.bianchetti@phd.unipd.it" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="gmail" width="40px"/>
