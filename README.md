@@ -4,7 +4,7 @@
 github-header-image.png)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-Pursuing a Ph.D. in Astrophysics, focusing on the ield of galaxy formation and evolution. Trying to radio astronomy in a modern way and with modern tools. 
+Pursuing a Ph.D. in Astrophysics, focusing on the field of galaxy formation and evolution. Trying to radio astronomy in a modern way and with modern tools. 
 Radio interferometers output a LOT of data: bring them to me. 
 <br>
 <br>
@@ -114,4 +114,13 @@ Radio interferometers output a LOT of data: bring them to me.
         <img style="margin:0 10px 10px 0;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="gmail" width="40px"/>
     </a>
 </div>
+<br>
+<br>
+<br>
+<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 7px;" >
+Credits for the this page:
+</div>
+
+[Aidin Attar](https://github.com/aidinattar)
+    
 <!-- End Footer -->
