@@ -4,8 +4,7 @@
 github-header-image.png)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-Pursuing a Ph.D. in Astrophysics, focusing on the field of galaxy formation and evolution. Trying to radio astronomy in a modern way and with modern tools. 
-Radio interferometers output a LOT of data: bring them to me. 
+Pursuing a Ph.D. in Astrophysics, focusing on the field of galaxy formation and evolution. Trying to do radio astronomy in a modern way and with modern tools. I liked the movie "Perfect Days" a lot.
 <br>
 <br>
 <div align="center">
